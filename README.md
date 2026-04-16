@@ -1,13 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=blur)
 ![header](https://capsule-render.vercel.app/api?type=rect&text=%EA%B9%80%EC%9A%B0%ED%98%84%28Ray%20Kim%29&fontName=NanumGothic)
-
-<div align="center">
-
-# Hi, I'm WooHyun
-
-### GitHub Profile Summary Cards
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=blur)
 
 ---
 
