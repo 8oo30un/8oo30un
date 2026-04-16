@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&text=김우현%(Ray&Kim))
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&text=김우현%(Ray%Kim))
 
 ---
 
